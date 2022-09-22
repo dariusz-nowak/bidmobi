@@ -177,7 +177,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   background-color: #ffffff;
   margin-right: 18px;
   width: 50%;
-  height: 317px;
+  height: 417px;
 }
 .bm_container_dashboard_2
 {
